@@ -777,6 +777,7 @@ section {
   background-repeat: no-repeat;
   background-attachment: fixed;
   padding: 0px 0px;
+  padding-bottom: 0 !important;
 }
 .hero__content {
   margin: 0 auto;
