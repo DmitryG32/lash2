@@ -775,7 +775,7 @@ section {
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   padding: 0px 0px;
   padding-bottom: 0 !important;
 }
